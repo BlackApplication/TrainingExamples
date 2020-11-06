@@ -32,14 +32,19 @@ namespace ConsoleApp
             }
 
             {
-                int x = 45; //value  (101101)
-                int key = 102; //key  (1100110)
-                int encrypt = x ^ key; //encrypted value (1001011) - 75
-                Console.WriteLine("Encrypt value: " + encrypt);
+                //int x = 45; //value  (101101)
+                //int key = 102; //key  (1100110)
+                //int encrypt = x ^ key; //encrypted value (1001011) - 75
+                //Console.WriteLine("Encrypt value: " + encrypt);
 
 
-                int decrypt = encrypt ^ key; // decrypt key
-                Console.WriteLine("Decript value: " + decrypt);
+                //int decrypt = encrypt ^ key; // decrypt key
+                //Console.WriteLine("Decript value: " + decrypt);
+
+
+            }
+
+            {
 
 
             }
